@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace CcwawamiyaLaravelWeChat;
+namespace Ccwawamiya\LaravelWeChat;
 
 use EasyWeChat\MiniProgram\Application as MiniProgram;
 use EasyWeChat\OfficialAccount\Application as OfficialAccount;

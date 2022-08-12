@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace CcwawamiyaLaravelWeChat\Events\OpenPlatform;
+namespace Ccwawamiya\LaravelWeChat\Events\OpenPlatform;
 
 /**
  * @method string getAppId()

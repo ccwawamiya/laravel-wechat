@@ -9,7 +9,7 @@
  * with this source code in the file LICENSE.
  */
 
-namespace CcwawamiyaLaravelWeChat\Controllers;
+namespace Ccwawamiya\LaravelWeChat\Controllers;
 
 use Barryvdh\Debugbar\LaravelDebugbar;
 

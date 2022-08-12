@@ -46,7 +46,7 @@ return [
          */
         // 'open_platform' => [
         //     'uri' => 'serve',
-        //     'action' => CcwawamiyaLaravelWeChat\Controllers\OpenPlatformController::class,
+        //     'action' => Ccwawamiya\LaravelWeChat\Controllers\OpenPlatformController::class,
         //     'attributes' => [
         //         'prefix' => 'open-platform',
         //         'middleware' => null,
